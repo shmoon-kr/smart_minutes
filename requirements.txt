@@ -1,0 +1,6 @@
+deepl==1.21.0
+nltk==3.9.1
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+whisper==1.1.10
